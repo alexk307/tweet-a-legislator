@@ -30,8 +30,3 @@ class Tweeter(object):
             print 'Posted: %s' % tweet_body
         except TwitterError as e:
             print 'Unable to post: %s' % str(e)
-
-
-if __name__ == '__main__':
-    t = Tweeter()
-    t.tweet('kahankahan', 'asdf')
