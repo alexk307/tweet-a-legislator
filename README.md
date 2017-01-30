@@ -1,6 +1,9 @@
 # tweet-a-legislator
 Tweets all U.S. Legislators on Twitter. Gets current legislator social media data from [congress-legislators](https://github.com/unitedstates/congress-legislators) and tweets your message to all legislators with a Twitter account.
 
+![](http://i.imgur.com/nGePX5i.gif)
+
+
 ### Setup
 Create virtualenv, install `requirements.txt`
 
