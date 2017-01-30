@@ -1,0 +1,6 @@
+- Download and install [Python 2.7](https://www.python.org/download/releases/2.7/)
+- Download and install [Virtualenv](https://virtualenv.pypa.io/en/stable/)
+  - Run: `virtualenv env`. This will create your virtual environment
+  - Run: `source env/bin/activate`. This is use your newly created environment
+  - Run: `pip install -r requirements.txt`. This will install the dependencies needed for this project
+- Run: `python main.py`
